@@ -4,6 +4,14 @@
 - Conjunto de dados escolhido foi o [Wine Recognition Data](https://archive.ics.uci.edu/dataset/109/wine)
 - Esses dados foram originados de estudos químicos de vinhos cultivados e crescidos na mesma região da Itália, mas derivados de 3 cultivadores diferentes.
 - A análise determina de 13 constituintes encontrados em cada 3 tipos de vinho.
+- **Etapa 1** é dividida em _6_ pontos
+  - Introdução
+  - Análise Descritiva
+  - Amostragem
+  - Estimação
+  - Modelagem dos Dados
+  - Conclusão
+- **Etapa 2** sintetiza o uso de _clusters_ dentro da análise dos dados.
 
 <br />
 <h2 align="center">Integrantes:</h2>
