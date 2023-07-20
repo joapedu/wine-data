@@ -13,7 +13,13 @@
   - Conclusão
 - **Etapa 2** sintetiza o uso de _clusters_ dentro da análise dos dados.
 
-<br />
+<hr>
+<div align="center">
+<p><h3> A Unidade 3 foi feita com intuito de corrigir problemas, melhorar etapas já presentes e apresentar novas adições com intuito de enriquecer o projeto como um todo.</h3></p>
+<p><h3> Todas as <b>melhoras</b>, <b>correções</b> e <b>adições</b> estão descritas no projeto.</h3></p>
+</div>
+
+<hr>
 <h2 align="center">Integrantes:</h2>
 <h3 align="center"> 👾 Colaborador: <a href="https://github.com/joapedu"><strong>joapedu@</strong></a> <br />João Eduardo - 20220035851</h3>
 <h4 align="center">:phone: <i>C O N T A T O S</i> :phone:</h4>
