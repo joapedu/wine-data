@@ -1,4 +1,4 @@
-<h1 align="center"> 📖 Projeto da Disciplina Probabilidade e Inferência 📖</h1>
+<h1 align="center"> 📖 Projeto de manipulação de dados usando Python e suas diversas bibliotecas 📖</h1>
 
 ### O projeto consiste na análise, descrição, amostragem, estimação e modelagem de um conjunto de dados.
 - Conjunto de dados escolhido foi o [Wine Recognition Data](https://archive.ics.uci.edu/dataset/109/wine)
@@ -27,12 +27,4 @@
     <a href = "mailto:joaoeduardobraga2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-F80000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/joão-eduardo-braga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://wa.me/5584981480327/" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-4EA94B?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a>
-</div>
-
-<h3 align="center">🐺 Colaborador: <a href="https://github.com/edurs2602"><strong>@Arthur-Holanda</strong></a><br />Artur Holanda - 20220039547</h3>
-<h4 align="center">:phone: <i>C O N T A T O S</i> :phone:</h4>
-<div align="center">
-    <a href = "mailto:arthurdehollanda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-F80000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/arthur-holanda-518628265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://wa.me/5584996384708/" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-4EA94B?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a>
 </div>
